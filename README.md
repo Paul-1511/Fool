@@ -1,1 +1,2 @@
-# Fool
+ ```bash
+git.clone
